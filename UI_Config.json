@@ -3,30 +3,30 @@
     "OnlyLive": {
     "type": "checkbox",
     "value": false,
-    "label": "Only when live",
-    "tooltip": "Commands are only active when stream is live",
-    "group": "General"
+    "label": "Somente ao vivo",
+    "tooltip": "Estes comandos só estão ativos quando o streamer estiver ao vivo",
+    "group": "Geral"
   },
     "QueueOpen": {
     "type": "checkbox",
     "value": true,
-    "label": "Queue open",
-    "tooltip": "Add level command is only active when queue is open",
-    "group": "General"
+    "label": "Fila aberta",
+    "tooltip": "Adicione sua fase somente quando a fila estiver aberta",
+    "group": "Geral"
   },
     "command_info": {
     "type": "textbox",
     "value": "!smm2lqs",
-  	"label": "Command Name (Info)",
-    "tooltip": "Command to get info about SMM2 Level Queue Bot",
-  	"group": "General"
+  	"label": "Nome do comando (Info)",
+    "tooltip": "Comando para obter informações sobre o bot de fila de fases do SMM2 por Eliton",
+  	"group": "Geral"
   },
     "command_add": {
     "type": "textbox",
     "value": "!add",
-  	"label": "Command Name (Add level)",
-    "tooltip": "Command to add a level to queue",
-  	"group": "General"
+  	"label": "Nome do comando (Adicionar fase)",
+    "tooltip": "Comando para adicionar sua fase à fila",
+  	"group": "Geral"
   },
     "command_list": {
     "type": "textbox",
